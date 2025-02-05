@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henri!</h1>
 <h3 align="center">TechLead | +10Years Experience | Microservice NestJS WordPress Scraping CodeIgniter Django PWA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susantohenri&label=Profile%20views&color=0e75b6&style=flat" alt="susantohenri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susantohenri" alt="susantohenri" /></a> </p>
 
 - 💬 Ask me about **Wordpress, PHP, NodeJS, MVP, Scalability & Optimization**
