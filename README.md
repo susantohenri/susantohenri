@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/henri-susanto/](https://www.linkedin.com/in/henri-susanto/)
 
+- 📄 Hire me [https://www.upwork.com/freelancers/~01a3413cc8110bffbd](https://www.upwork.com/freelancers/~01a3413cc8110bffbd/)
+
 - ⚡ Fun fact **I always exciting to learn new things**
 
 <h3 align="left">Connect with me:</h3>
